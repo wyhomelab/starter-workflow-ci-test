@@ -1,7 +1,7 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+name: Support Request
+description: To request support from devops
+title: "[Support]: "
+labels: ["support", "triage"]
 assignees:
   - octocat
 body:
